@@ -34,4 +34,4 @@ First Create and Activate a VM:
     Instructions are written in requirements.txt
 
 Then install necessary libraries via the same script with the following command:
-    '''python3 -m pip install -r requirements.txt'''
+    ''' python3 -m pip install -r requirements.txt
